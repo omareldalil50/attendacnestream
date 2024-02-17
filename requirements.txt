@@ -1,5 +1,5 @@
-opencv-python==4.5.3.56
-pandas==1.3.3
-face-recognition==1.3.0
-streamlit==1.16.0
-numpy==1.21.2
+cv2
+pandas
+face_recognition
+streamlit
+numpy
