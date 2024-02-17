@@ -43,5 +43,6 @@ pandas
 jsonschema-specifications
 gitpython
 jsonschema
+opencv-python==4.5.3.56
 altair
 streamlit
