@@ -1,15 +1,6 @@
-# requirements.txt
-
-# تحديث إصدار pip
-pip==24.0
-
-# تثبيت مكتبة cmake
-cmake==3.21.3
-
-# تثبيت مكتبة dlib مع تحديد الإصدار
-dlib==19.22.0
-
-# تثبيت باقي المكتبات المستخدمة في التطبيق
+opencv-python==4.5.3
 streamlit==1.18.0
-opencv-python
+numpy==1.21.0
+cmake==3.21.3
+dlib==19.22.0
 face-recognition==1.3.0
